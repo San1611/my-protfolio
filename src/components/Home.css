@@ -1,0 +1,18 @@
+.home {
+    padding: 100px 20px;
+    text-align: center;
+    background-color:#6dc8db ;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .home h1 {
+    font-size: 2.5em;
+    color: #222;
+  }
+  
+  .home p {
+    font-size: 1.5em;
+    color: #555;
+    margin-top: 10px;
+  }
+  
